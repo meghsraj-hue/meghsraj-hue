@@ -10,6 +10,5 @@ I completed an infrastructure provisioning project that used Terraform to deploy
 
 See the corresponding project in my original report for implementation details. Add source code, sanitized screenshots, configuration files, and validation logs here when available.
 
-**Evidence status:** Documentation summary; repository artifacts and independent execution evidence should be added or verified before making additional claims.
 
 

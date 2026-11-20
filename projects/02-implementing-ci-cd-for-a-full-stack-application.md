@@ -10,5 +10,4 @@ I implemented a CI/CD workflow for a full stack application, connecting applicat
 
 See the corresponding project in my original report for implementation details. Add source code, sanitized screenshots, configuration files, and validation logs here when available.
 
-**Evidence status:** Documentation summary; repository artifacts and independent execution evidence should be added or verified before making additional claims.
 

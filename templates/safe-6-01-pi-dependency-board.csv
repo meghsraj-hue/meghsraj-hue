@@ -1,0 +1,7 @@
+PI,Feature,Workstream,Dependency,Owner role,Exit evidence,Status,Risk response
+PI example,Monitoring coverage,DBA / OEM,Agent compatibility confirmed,DBA + vendor,Signed compatibility matrix,Example: planned,Escalate vendor version gap
+PI example,Monitoring coverage,Network security,Firewall port approval,Network + security,Approved connectivity test,Example: blocked,ROAM: owned; target approval
+PI example,Backup reliability,Storage / backup,Capacity and retention review,Storage + backup,Sizing and policy review,Example: planned,Review RPO and backup window
+PI example,Backup reliability,Operations,Representative restore drill,Backup + operations,Timed restore log,Example: planned,Rollback if restore fails
+PI example,Customer service release,QA / business,UAT and regression complete,QA + business,Signed UAT matrix,Example: planned,Hold release for severity-1 defect
+PI example,Cutover,Change management,CAB and rollback approval,TPM + CAB,Approved change record,Example: planned,No-go without rollback

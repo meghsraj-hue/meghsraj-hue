@@ -1,0 +1,7 @@
+Test ID,Business requirement,System/layer,Precondition,Test and expected outcome,Evidence,Owner role,Status
+AT-01,Proactive monitoring,Oracle OEM,Compatible agent and firewall rule,Agent healthy and target visible,Console screenshot/log,DBA / monitoring,Sample only
+AT-02,Timely incident detection,Monitoring/operations,Alert route configured,Threshold breach reaches on-call within SLA,Alert and incident timestamps,Operations,Sample only
+AT-03,Recoverable data,NetBackup/Data Domain,Valid backup and target capacity,Restore representative dataset within agreed RTO,Restore report and timing,Backup / storage,Sample only
+AT-04,Secure connectivity,Network/security,Approved ACL and certificates,Authorized traffic succeeds; unauthorized traffic blocked,Test output/change record,Network/security,Sample only
+AT-05,Customer transaction continuity,App/IVR/WFM,Integrated staging environment,Business flow completes without regression,Signed UAT result,QA/business,Sample only
+AT-06,Safe release reversal,Release operations,Rollback runbook approved,Restore pre-change service state in agreed window,Rollback rehearsal record,Release manager,Sample only

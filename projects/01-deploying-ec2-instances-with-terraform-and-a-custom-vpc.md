@@ -6,6 +6,3 @@
 
 I completed an infrastructure provisioning project that used Terraform to deploy EC2 instances inside a custom AWS VPC. The work connected infrastructure code with network configuration and compute deployment. I defined the VPC, subnet, routing, security groups and EC2 configuration in Terraform. I initialized the working directory, reviewed the execution plan and applied the configuration. I checked that the instance was placed in the intended subnet and that allowed connectivity worked. I retained the configuration and resource outputs so the environment can be reproduced. The project output consisted of EC2 resources provisioned through code within a custom VPC. The configuration and Terraform outputs form the reusable deliverable. This approach supports consistent environment creation and reduces repeated console configuration. For Flexytie, the business opportunity is faster environment setup and clearer review of infrastructure changes. A reusable environment definition can support development environments, demonstrations and future application deployments. Infrastructure changes can be reviewed before they are applied, helping teams understand the intended configuration.
 
-
-
-

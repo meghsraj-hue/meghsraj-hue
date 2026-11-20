@@ -10,8 +10,4 @@ I completed an end to end AWS infrastructure project, bringing the infrastructur
 
 See the corresponding project in my original report for implementation details. Add source code, sanitized screenshots, configuration files, and validation logs here when available.
 
-**Evidence status:** Documentation summary; repository artifacts and independent execution evidence should be added or verified before making additional claims.
 
-## Relevance to technical program management
-
-This project illustrates the infrastructure, deployment, dependency, and operational considerations I coordinate across engineering and delivery teams.

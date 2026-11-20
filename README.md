@@ -19,11 +19,19 @@ My strength lies in connecting **technical architecture, infrastructure reliabil
 
 ### Enterprise infrastructure and modernization
 
+Explore my enterprise infrastructure experience, cloud implementations, technical case studies, delivery frameworks, and documented project evidence.
+
 - [Enterprise infrastructure: 17-year technical journey](case-studies/enterprise-technology-journey.md) Physical and virtual servers, Linux/Unix, Oracle databases, Oracle Enterprise Manager, Veritas NetBackup, EMC Data Domain, storage, networking dependencies, disaster recovery, high availability and production operations.
 - [Backup reliability and data protection](case-studies/enterprise-backup-reliability.md) — Veritas NetBackup, EMC Data Domain, retention, restore operations, capacity and recovery planning
 - [Oracle Enterprise Manager and production monitoring](case-studies/enterprise-monitoring-and-release-governance.md) — Oracle databases, thresholds, agents, infrastructure capacity and change governance
 - [Technical architecture decisions](case-studies/architecture-and-operational-decisions.md) — compute, storage, network, compatibility, security, UAT and release planning
 - [Detailed technical and business case studies](case-studies/detailed-technical-business-impact-portfolio.md)
+
+**Technologies covered:**
+
+AWS EC2, VPC, IAM, S3, EBS, RDS, Lambda, CloudWatch, EKS, ECS/Fargate, Jenkins, Docker, Terraform, Ansible, GitHub Actions, CI/CD, and Azure Load Balancer.
+
+These documented hands-on projects demonstrate practical cloud and DevOps learning, complementing my enterprise infrastructure and technology delivery experience.
 
 ### Cloud & DevOps: 20 implementation projects
 
@@ -31,23 +39,38 @@ My strength lies in connecting **technical architecture, infrastructure reliabil
 
 **Original implementation walkthroughs with screenshots and commands:**
 
-- [Spring Boot CI/CD](evidence/17-spring-boot-cicd/source-walkthrough.md)
-- [AWS banking application capstone](evidence/19-aws-cloud-banking-capstone/source-walkthrough.md)
-- [Microservices with CodePipeline and ECS Fargate](evidence/20-ecs-fargate-microservices/source-walkthrough.md)
-- [Azure high-availability load balancing](evidence/18-azure-load-balancer-high-availability/source-walkthrough.md)
-- [Terraform and Ansible](evidence/14-terraform-ansible-infrapro/source-walkthrough.md)
-- [Jenkins backup and recovery](evidence/13-jenkins-backup-restore-aws-s3/source-walkthrough.md)
+- [Spring Boot CI/CD](evidence/17-spring-boot-cicd/source-walkthrough.md) — Application build and deployment automation.
+- [AWS banking application capstone](evidence/19-aws-cloud-banking-capstone/source-walkthrough.md) — Cloud infrastructure and application deployment.
+- [Microservices with CodePipeline and ECS Fargate](evidence/20-ecs-fargate-microservices/source-walkthrough.md) — Containerized microservices and deployment pipelines.
+- [Azure high-availability load balancing](evidence/18-azure-load-balancer-high-availability/source-walkthrough.md) — Load balancing, backend configuration, and health probes.
+- [Terraform and Ansible](evidence/14-terraform-ansible-infrapro/source-walkthrough.md) — Infrastructure provisioning and configuration automation.
+- [Jenkins backup and recovery](evidence/13-jenkins-backup-restore-aws-s3/source-walkthrough.md) — Backup, restoration, and AWS S3 integration.
 
 ### Delivery frameworks and professional learning
 
-- [SAFe 6.01 — infrastructure modernization and cross-team delivery](case-studies/safe-6-01-enterprise-infrastructure-program.md)
+- [SAFe 6.01 — infrastructure modernization and cross-team delivery](case-studies/safe-6-01-enterprise-infrastructure-program.md) — Agile planning, dependencies, coordination, and enterprise delivery governance.
 - [Certifications and practical learning](learning/certifications-and-applied-learning.md) Technical program management, Agile/Scrum, SAFe, SDLC, RAID, release readiness, stakeholder reporting, vendor coordination, QA/UAT, change management.
-- [Operational and delivery templates](templates/)
+- [Operational and delivery templates](templates/) — Practical templates supporting structured technology execution.
 
 ### Source-code repositories
 
 - [BankPro Spring Boot CI/CD AWS](https://github.com/meghsraj-hue/BankPro-SpringBoot-CICD-AWS)
 - [DevBank backend](https://github.com/meghsraj-hue/devbank-backend)
 - [DevBank frontend](https://github.com/meghsraj-hue/devbank-frontend)
+## My Technology Philosophy
+
+*Technology excellence is not simply about deploying infrastructure or adopting cloud services. It is about designing for reliability, building for scalability, planning for recovery, managing risk, and ensuring every technical investment delivers meaningful business value.*
+
+Reliability is not just a monitoring metric. It depends on sound capacity planning, recoverability, compatibility, security controls, release discipline, and effective coordination among engineering, operations, and business teams.
+
+**Architecture + Reliability + Execution + Business Value**
 
 **Technical perspective:** Reliability is not just a monitoring metric: it depends on sound capacity planning, recoverability, compatibility, security controls, release discipline and effective coordination among engineering, operations and business teams.
+
+### Connect With Me
+
+I welcome opportunities to connect with professionals working in enterprise infrastructure, cloud architecture, technical program management, technology modernization, and operational excellence.
+
+Fremont, California, USA
+
+🔗 [LinkedIn](https://www.linkedin.com/in/meghna-shah9/) | [GitHub](https://github.com/meghsraj-hue)

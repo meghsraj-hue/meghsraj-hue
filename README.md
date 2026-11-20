@@ -6,11 +6,13 @@ Fremont, California | [LinkedIn](https://www.linkedin.com/in/meghna-shah9/) | [G
 
 ## Technical portfolio
 
-My work spans enterprise backup and recovery, Oracle monitoring, server and storage capacity planning, production support, customer-service technology platforms, technical delivery, and hands-on AWS/Azure/DevOps learning projects. The portfolio brings together implementation walkthroughs, original project screenshots, architecture and operational decisions, and the business problems behind them.
+I am a Technical Program Manager with approximately 17 years of enterprise IT experience spanning infrastructure operations, data center reliability, database monitoring, disaster recovery, stakeholder management, Agile delivery and production release governance. At ICICI Bank, I worked with engineering, QA, operations, vendors and business teams on mission-critical banking platforms.
+
+I complement this enterprise background with 20 documented hands-on AWS and DevOps projects, covering infrastructure provisioning, CI/CD, containers, monitoring, storage, security and recovery. I enjoy translating technical dependencies into clear plans, owners, milestones and measurable delivery outcomes.
 
 ### Enterprise infrastructure and modernization
 
-- [Enterprise infrastructure: 17-year technical journey](case-studies/enterprise-technology-journey.md)
+- [Enterprise infrastructure: 17-year technical journey](case-studies/enterprise-technology-journey.md) Physical and virtual servers, Linux/Unix, Oracle databases, Oracle Enterprise Manager, Veritas NetBackup, EMC Data Domain, storage, networking dependencies, disaster recovery, high availability and production operations.
 - [Backup reliability and data protection](case-studies/enterprise-backup-reliability.md) — Veritas NetBackup, EMC Data Domain, retention, restore operations, capacity and recovery planning
 - [Oracle Enterprise Manager and production monitoring](case-studies/enterprise-monitoring-and-release-governance.md) — Oracle databases, thresholds, agents, infrastructure capacity and change governance
 - [Technical architecture decisions](case-studies/architecture-and-operational-decisions.md) — compute, storage, network, compatibility, security, UAT and release planning
@@ -32,7 +34,7 @@ My work spans enterprise backup and recovery, Oracle monitoring, server and stor
 ### Delivery frameworks and professional learning
 
 - [SAFe 6.01 — infrastructure modernization and cross-team delivery](case-studies/safe-6-01-enterprise-infrastructure-program.md)
-- [Certifications and practical learning](learning/certifications-and-applied-learning.md)
+- [Certifications and practical learning](learning/certifications-and-applied-learning.md) Technical program management, Agile/Scrum, SAFe, SDLC, RAID, release readiness, stakeholder reporting, vendor coordination, QA/UAT, change management.
 - [Operational and delivery templates](templates/)
 
 ### Source-code repositories

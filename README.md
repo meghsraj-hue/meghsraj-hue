@@ -6,9 +6,16 @@ Fremont, California | [LinkedIn](https://www.linkedin.com/in/meghna-shah9/) | [G
 
 ## Technical portfolio
 
-I am a Technical Program Manager with approximately 17 years of enterprise IT experience spanning infrastructure operations, data center reliability, database monitoring, disaster recovery, stakeholder management, Agile delivery and production release governance. At ICICI Bank, I worked with engineering, QA, operations, vendors and business teams on mission-critical banking platforms.
+I am an enterprise technology professional and Technical Program Manager with approximately **17 years of experience** spanning mission-critical IT infrastructure, data center operations, infrastructure modernization, database monitoring, disaster recovery, production reliability, and cross-functional technology delivery.
 
-I complement this enterprise background with 20 documented hands-on AWS and DevOps projects, covering infrastructure provisioning, CI/CD, containers, monitoring, storage, security and recovery. I enjoy translating technical dependencies into clear plans, owners, milestones and measurable delivery outcomes.
+My professional journey includes working with large-scale banking infrastructure at **ICICI Bank**, collaborating with engineering, infrastructure, database, QA, operations, vendors, and business teams to support high-availability enterprise environments and complex technology initiatives.
+
+Building upon this foundation, I have expanded my technical capabilities through **20 documented hands-on AWS, Azure, and DevOps implementation projects**, covering cloud infrastructure provisioning, networking, security, CI/CD pipelines, containers, automation, monitoring, backup, and recovery.
+
+My strength lies in connecting **technical architecture, infrastructure reliability, program execution, and business objectives**—translating complex technology dependencies into structured plans, accountable owners, measurable milestones, and sustainable outcomes.
+
+**My Focus: Architecture + Reliability + Execution + Business Value.**
+
 
 ### Enterprise infrastructure and modernization
 

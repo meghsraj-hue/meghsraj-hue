@@ -115,7 +115,4 @@ Do not publish secrets, access keys, client/customer data, bank architecture dia
 
 Confirmed credentials from supplied screenshot: AI for Scrum Masters; AI for Product Owners; Get Started with AI Prompt Engineering; AI for Product Discovery and Strategy. Exact tool names taught in each course are not present in the screenshot or the supplied project documents. The list below is a TOOL-VALIDATION WORKSHEET, not a claim that each brand was taught or used.  
 
-### Demonstration prompt + quality control
 
-Example: “Given this anonymized sprint backlog, produce a RAID log with risk, trigger, owner, probability, impact, mitigation, evidence and unanswered questions. Do not invent dates or completion status.” Validate each AI output against Jira/source records, redact sensitive data, require human approval and log corrections.  
-Business outcome claims must be measured: baseline 90 minutes for weekly reporting vs 45 minutes after a pilot would indicate 50% less preparation time IF actually observed. These numbers are an example only, not your recorded result.

@@ -23,4 +23,3 @@ A fictional organization plans to deploy an AI inference service. The TPM must c
 ## Deliverables
 Program charter, RAID log, milestone plan, readiness checklist, stakeholder review template.
 
-**Important:** This simulation does not imply hands-on NVIDIA GPU debugging, hyperscale AI hardware operation or direct OEM engagement.

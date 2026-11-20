@@ -12,6 +12,4 @@ See the corresponding project in my original report for implementation details. 
 
 **Evidence status:** Documentation summary; repository artifacts and independent execution evidence should be added or verified before making additional claims.
 
-## Relevance to technical program management
 
-This project illustrates the infrastructure, deployment, dependency, and operational considerations I coordinate across engineering and delivery teams.
